@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/evolutionary_planner/lib/pkgconfig/evolutionary_planner.pc

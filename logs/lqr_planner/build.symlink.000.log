@@ -1,0 +1,4 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/lqr_planner/cmake/lqr_plannerConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/lqr_planner/cmake/lqr_plannerConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/liblqr_planner.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/lqr_planner.pc

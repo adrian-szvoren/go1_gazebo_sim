@@ -1,0 +1,9 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/champ_base/cmake/champ_baseConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/champ_base/cmake/champ_baseConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/libmessage_relay.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/libstate_estimation.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/libquadruped_controller.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/champ_base/quadruped_controller_node
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/champ_base/state_estimation_node
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/champ_base/message_relay_node
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/champ_base.pc

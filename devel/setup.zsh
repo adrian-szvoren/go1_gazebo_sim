@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/catkin_tools_prebuild/setup.zsh

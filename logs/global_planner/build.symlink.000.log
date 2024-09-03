@@ -1,0 +1,4 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/global_planner/cmake/global_plannerConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/global_planner/cmake/global_plannerConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/libglobal_planner.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/global_planner.pc

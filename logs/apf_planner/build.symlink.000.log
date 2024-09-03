@@ -1,0 +1,4 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/apf_planner/cmake/apf_plannerConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/apf_planner/cmake/apf_plannerConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/libapf_planner.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/apf_planner.pc

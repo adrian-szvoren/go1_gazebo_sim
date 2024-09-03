@@ -1,0 +1,3 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/champ_bringup/cmake/champ_bringupConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/champ_bringup/cmake/champ_bringupConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/champ_bringup.pc

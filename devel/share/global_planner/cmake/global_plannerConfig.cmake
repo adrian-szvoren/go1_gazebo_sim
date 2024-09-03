@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/global_planner/share/global_planner/cmake/global_plannerConfig.cmake

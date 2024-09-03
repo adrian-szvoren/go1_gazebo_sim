@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/champ_msgs/share/roseus/ros/champ_msgs/msg/Joints.l

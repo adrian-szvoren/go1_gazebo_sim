@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/champ_navigation/share/champ_navigation/cmake/champ_navigationConfig.cmake

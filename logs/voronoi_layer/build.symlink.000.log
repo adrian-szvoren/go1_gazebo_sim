@@ -1,0 +1,4 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/voronoi_layer/cmake/voronoi_layerConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/voronoi_layer/cmake/voronoi_layerConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/libvoronoi_layer.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/voronoi_layer.pc

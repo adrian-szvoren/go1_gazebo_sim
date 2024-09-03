@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/champ_config/share/champ_config/cmake/champ_configConfig.cmake

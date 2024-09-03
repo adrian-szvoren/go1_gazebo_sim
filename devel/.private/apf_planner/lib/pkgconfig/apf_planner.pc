@@ -1,0 +1,8 @@
+prefix=/home/adrian/git/go1_gazebo_sim/devel/.private/apf_planner
+
+Name: apf_planner
+Description: Description of apf_planner
+Version: 0.0.0
+Cflags: -I/home/adrian/git/go1_gazebo_sim/src/core/local_planner/apf_planner/include
+Libs: -L${prefix}/lib 
+Requires: local_planner

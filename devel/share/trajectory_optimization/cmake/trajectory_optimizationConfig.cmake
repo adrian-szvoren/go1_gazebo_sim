@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/trajectory_optimization/share/trajectory_optimization/cmake/trajectory_optimizationConfig.cmake

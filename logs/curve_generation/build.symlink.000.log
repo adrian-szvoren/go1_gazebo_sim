@@ -1,0 +1,4 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/curve_generation/cmake/curve_generationConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/curve_generation/cmake/curve_generationConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/libcurve_generation.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/curve_generation.pc

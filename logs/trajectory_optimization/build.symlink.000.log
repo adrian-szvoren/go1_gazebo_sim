@@ -1,0 +1,4 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/trajectory_optimization/cmake/trajectory_optimizationConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/trajectory_optimization/cmake/trajectory_optimizationConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/libtrajectory_optimization.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/trajectory_optimization.pc

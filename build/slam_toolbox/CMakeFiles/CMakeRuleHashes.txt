@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+62516960cbd04c6bba860ba76b5d20d3 lib/karto_sdk/CMakeFiles/clean_test_results

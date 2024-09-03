@@ -1,0 +1,4 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/lazy_planner/cmake/lazy_plannerConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/lazy_planner/cmake/lazy_plannerConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/liblazy_planner.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/lazy_planner.pc

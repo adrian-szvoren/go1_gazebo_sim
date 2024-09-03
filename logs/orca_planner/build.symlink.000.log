@@ -1,0 +1,5 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/orca_planner/cmake/orca_plannerConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/orca_planner/cmake/orca_plannerConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/libRVO.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/liborca_planner.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/orca_planner.pc

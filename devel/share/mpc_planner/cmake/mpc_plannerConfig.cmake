@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/mpc_planner/share/mpc_planner/cmake/mpc_plannerConfig.cmake

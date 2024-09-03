@@ -1,0 +1,5 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/champ_teleop/cmake/champ_teleopConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/champ_teleop/cmake/champ_teleopConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/champ_teleop/champ_teleop.py
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/champ_teleop/cmake.lock
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/champ_teleop.pc

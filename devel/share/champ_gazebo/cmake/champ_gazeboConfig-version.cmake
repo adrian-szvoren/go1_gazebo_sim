@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/champ_gazebo/share/champ_gazebo/cmake/champ_gazeboConfig-version.cmake

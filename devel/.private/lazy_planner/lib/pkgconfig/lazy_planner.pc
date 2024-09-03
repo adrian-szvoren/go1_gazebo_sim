@@ -1,0 +1,8 @@
+prefix=/home/adrian/git/go1_gazebo_sim/devel/.private/lazy_planner
+
+Name: lazy_planner
+Description: Description of lazy_planner
+Version: 0.0.0
+Cflags: -I/home/adrian/git/go1_gazebo_sim/src/core/global_planner/lazy_planner/include
+Libs: -L${prefix}/lib -llazy_planner
+Requires: 

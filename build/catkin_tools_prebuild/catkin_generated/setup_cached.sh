@@ -1,0 +1,16 @@
+#!/usr/bin/env sh
+# generated from catkin/python/catkin/environment_cache.py
+
+# based on a snapshot of the environment before and after calling the setup script
+# it emulates the modifications of the setup script without recurring computations
+
+# new environment variables
+
+# modified environment variables
+export CMAKE_PREFIX_PATH="/home/adrian/git/go1_gazebo_sim/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH='/home/adrian/Workspaces/catkin_ws/devel/lib:/opt/ros/noetic/lib'
+export PKG_CONFIG_PATH='/home/adrian/Workspaces/catkin_ws/devel/lib/pkgconfig:/opt/ros/noetic/lib/pkgconfig'
+export PWD='/home/adrian/git/go1_gazebo_sim/build/catkin_tools_prebuild'
+export PYTHONPATH='/opt/ros/noetic/lib/python3/dist-packages'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/adrian/git/go1_gazebo_sim/devel/.private/catkin_tools_prebuild/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH='/home/adrian/git/go1_gazebo_sim/build/catkin_tools_prebuild:/home/adrian/git/go1_gazebo_sim/src/champ/champ:/home/adrian/git/go1_gazebo_sim/src/champ/champ_bringup:/home/adrian/git/go1_gazebo_sim/src/champ/champ_config:/home/adrian/git/go1_gazebo_sim/src/champ/champ_description:/home/adrian/git/go1_gazebo_sim/src/champ/champ_msgs:/home/adrian/git/go1_gazebo_sim/src/champ/champ_base:/home/adrian/git/go1_gazebo_sim/src/champ/champ_gazebo:/home/adrian/git/go1_gazebo_sim/src/champ/champ_navigation:/home/adrian/git/go1_gazebo_sim/src/champ_teleop:/home/adrian/git/go1_gazebo_sim/src/core/local_planner/dwa_planner:/home/adrian/git/go1_gazebo_sim/src/go1_config:/home/adrian/git/go1_gazebo_sim/src/go1_description:/home/adrian/git/go1_gazebo_sim/src/go1_gazebo:/home/adrian/git/go1_gazebo_sim/src/go1_navigation:/home/adrian/git/go1_gazebo_sim/src/core/global_planner/lazy_planner:/home/adrian/git/go1_gazebo_sim/src/slam_toolbox/slam_toolbox_msgs:/home/adrian/git/go1_gazebo_sim/src/slam_toolbox/slam_toolbox:/home/adrian/git/go1_gazebo_sim/src/slam_toolbox/slam_toolbox_rviz:/home/adrian/git/go1_gazebo_sim/src/core/local_planner/static_planner:/home/adrian/git/go1_gazebo_sim/src/core/utils:/home/adrian/git/go1_gazebo_sim/src/core/curve_generation:/home/adrian/git/go1_gazebo_sim/src/core/global_planner/global_planner:/home/adrian/git/go1_gazebo_sim/src/core/global_planner/evolutionary_planner:/home/adrian/git/go1_gazebo_sim/src/core/global_planner/graph_planner:/home/adrian/git/go1_gazebo_sim/src/core/local_planner/local_planner:/home/adrian/git/go1_gazebo_sim/src/core/local_planner/apf_planner:/home/adrian/git/go1_gazebo_sim/src/core/local_planner/lqr_planner:/home/adrian/git/go1_gazebo_sim/src/core/local_planner/mpc_planner:/home/adrian/git/go1_gazebo_sim/src/core/local_planner/orca_planner:/home/adrian/git/go1_gazebo_sim/src/core/local_planner/pid_planner:/home/adrian/git/go1_gazebo_sim/src/core/local_planner/rpp_planner:/home/adrian/git/go1_gazebo_sim/src/core/global_planner/sample_planner:/home/adrian/git/go1_gazebo_sim/src/core/trajectory_optimization:/home/adrian/git/go1_gazebo_sim/src/yocs_velocity_smoother:/home/adrian/Workspaces/catkin_ws/src/ros_best_practices/ros_package_template:/opt/ros/noetic/share'

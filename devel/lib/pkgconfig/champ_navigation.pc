@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/champ_navigation/lib/pkgconfig/champ_navigation.pc

@@ -1,0 +1,4 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/graph_planner/cmake/graph_plannerConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/graph_planner/cmake/graph_plannerConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/libgraph_planner.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/graph_planner.pc

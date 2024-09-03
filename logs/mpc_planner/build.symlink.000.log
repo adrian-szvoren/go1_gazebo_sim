@@ -1,0 +1,4 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/mpc_planner/cmake/mpc_plannerConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/mpc_planner/cmake/mpc_plannerConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/libmpc_planner.so
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/mpc_planner.pc

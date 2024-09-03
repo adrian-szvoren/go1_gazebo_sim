@@ -1,0 +1,4 @@
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/champ_gazebo/cmake/champ_gazeboConfig-version.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/share/champ_gazebo/cmake/champ_gazeboConfig.cmake
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/champ_gazebo.pc
+Symlinking /home/adrian/git/go1_gazebo_sim/devel/lib/champ_gazebo/contact_sensor

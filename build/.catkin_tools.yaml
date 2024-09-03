@@ -1,0 +1,6 @@
+devel_space: /home/adrian/git/go1_gazebo_sim/devel
+install: false
+install_space: /home/adrian/git/go1_gazebo_sim/install
+profile: default
+source_space: /home/adrian/git/go1_gazebo_sim/src
+workspace: /home/adrian/git/go1_gazebo_sim

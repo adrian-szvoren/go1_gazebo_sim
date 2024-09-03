@@ -1,0 +1,4 @@
+Linked: (/home/adrian/git/go1_gazebo_sim/devel/.private/trajectory_optimization/share/trajectory_optimization/cmake/trajectory_optimizationConfig-version.cmake, /home/adrian/git/go1_gazebo_sim/devel/share/trajectory_optimization/cmake/trajectory_optimizationConfig-version.cmake)
+Linked: (/home/adrian/git/go1_gazebo_sim/devel/.private/trajectory_optimization/share/trajectory_optimization/cmake/trajectory_optimizationConfig.cmake, /home/adrian/git/go1_gazebo_sim/devel/share/trajectory_optimization/cmake/trajectory_optimizationConfig.cmake)
+Linked: (/home/adrian/git/go1_gazebo_sim/devel/.private/trajectory_optimization/lib/libtrajectory_optimization.so, /home/adrian/git/go1_gazebo_sim/devel/lib/libtrajectory_optimization.so)
+Linked: (/home/adrian/git/go1_gazebo_sim/devel/.private/trajectory_optimization/lib/pkgconfig/trajectory_optimization.pc, /home/adrian/git/go1_gazebo_sim/devel/lib/pkgconfig/trajectory_optimization.pc)

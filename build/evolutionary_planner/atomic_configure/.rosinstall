@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/adrian/git/go1_gazebo_sim/devel/.private/evolutionary_planner/setup.sh
