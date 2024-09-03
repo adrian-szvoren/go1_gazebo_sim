@@ -9,10 +9,13 @@
     <xacro:include filename="$(find go1_description)/xacro/Accessories/depthCamera.xacro"/>
     <xacro:include filename="$(find go1_description)/xacro/Accessories/ultraSound.xacro"/>
     <xacro:include filename="$(find go1_description)/xacro/Accessories/rplidar.xacro"/>
+    <xacro:include filename="$(find go1_description)/xacro/Accessories/rsHelios.xacro"/>
 
     <xacro:property name="M_PI" value="3.1415926535897931" />
     
-    <xacro:arg name="with_lidar" default="true" />
+    <xacro:arg name="with_2D_lidar" default="false" />
+    <xacro:arg name="with_3D_lidar" default="true" />
+
     <xacro:arg name="DEBUG" default="false" />
     <xacro:arg name="Gazebo" default="false" />
 
@@ -192,11 +195,17 @@
         <origin rpy="0 0 0" xyz="0.2747 0.0 -0.0088"/>
     </xacro:ultraSound>
 
-    <xacro:if value="$(arg with_lidar)">
+    <xacro:if value="$(arg with_2D_lidar)">
         <xacro:rplidar Gazebo="$(arg Gazebo)">
             <origin xyz="0.140468617087559 0 0.057" rpy="0 0 0.000119868886667814"/>
         </xacro:rplidar>
     </xacro:if>
+
+    <xacro:if value="$(arg with_3D_lidar)">
+        <xacro:rsHelios Gazebo="$(arg Gazebo)">
+        </xacro:rsHelios>
+    </xacro:if>
+
 
 
     <xacro:if value="$(arg Gazebo)">

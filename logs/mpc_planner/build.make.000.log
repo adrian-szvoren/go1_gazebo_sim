@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target mpc_planner[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/mpc_planner.dir/src/mpc_planner.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/adrian/git/go1_gazebo_sim/devel/.private/mpc_planner/lib/libmpc_planner.so[0m
-[100%] Built target mpc_planner

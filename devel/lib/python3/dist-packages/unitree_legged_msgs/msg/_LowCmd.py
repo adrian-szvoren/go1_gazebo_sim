@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/unitree_legged_msgs/lib/python3/dist-packages/unitree_legged_msgs/msg/_LowCmd.py

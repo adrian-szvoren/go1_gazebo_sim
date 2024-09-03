@@ -1,8 +1,0 @@
-[35m[1mScanning dependencies of target sample_planner[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/sample_planner.dir/src/rrt_star.cpp.o[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/sample_planner.dir/src/rrt.cpp.o[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/sample_planner.dir/src/sample_planner.cpp.o[0m
-[ 66%] [32mBuilding CXX object CMakeFiles/sample_planner.dir/src/informed_rrt.cpp.o[0m
-[ 83%] [32mBuilding CXX object CMakeFiles/sample_planner.dir/src/rrt_connect.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/adrian/git/go1_gazebo_sim/devel/.private/sample_planner/lib/libsample_planner.so[0m
-[100%] Built target sample_planner

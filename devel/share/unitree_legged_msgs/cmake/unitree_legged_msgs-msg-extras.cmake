@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/unitree_legged_msgs/share/unitree_legged_msgs/cmake/unitree_legged_msgs-msg-extras.cmake

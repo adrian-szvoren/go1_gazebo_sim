@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/phasespace/lib/python3/dist-packages/phasespace/msg/_Rigids.py

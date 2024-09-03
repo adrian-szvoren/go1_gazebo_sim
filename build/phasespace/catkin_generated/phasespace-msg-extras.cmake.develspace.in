@@ -1,0 +1,2 @@
+set(phasespace_MESSAGE_FILES "/home/adrian/git/go1_gazebo_sim/src/phasespace_ros_node/msg/Camera.msg;/home/adrian/git/go1_gazebo_sim/src/phasespace_ros_node/msg/Cameras.msg;/home/adrian/git/go1_gazebo_sim/src/phasespace_ros_node/msg/Marker.msg;/home/adrian/git/go1_gazebo_sim/src/phasespace_ros_node/msg/Markers.msg;/home/adrian/git/go1_gazebo_sim/src/phasespace_ros_node/msg/Rigid.msg;/home/adrian/git/go1_gazebo_sim/src/phasespace_ros_node/msg/Rigids.msg")
+set(phasespace_SERVICE_FILES "")

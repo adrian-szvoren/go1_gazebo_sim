@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "go1_description")
 set(go1_description_VERSION "0.0.0")
-set(go1_description_MAINTAINER "unitree <laikago@unitree.cc>")
+set(go1_description_MAINTAINER "Jianwei Liu <jianwei.liu.21@ucl.ac.uk>")
 set(go1_description_PACKAGE_FORMAT "2")
 set(go1_description_BUILD_DEPENDS "roscpp" "std_msgs")
 set(go1_description_BUILD_EXPORT_DEPENDS "roscpp" "std_msgs")

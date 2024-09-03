@@ -4,7 +4,7 @@
     <version>0.0.0</version>
     <description>The go1_description package</description>
 
-    <maintainer email="laikago@unitree.cc">unitree</maintainer>
+    <maintainer email="jianwei.liu.21@ucl.ac.uk">Jianwei Liu</maintainer>
     <license>TODO</license>
 
     <buildtool_depend>catkin</buildtool_depend>

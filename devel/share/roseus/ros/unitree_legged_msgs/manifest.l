@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/unitree_legged_msgs/share/roseus/ros/unitree_legged_msgs/manifest.l

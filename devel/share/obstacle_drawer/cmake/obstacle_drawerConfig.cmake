@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/obstacle_drawer/share/obstacle_drawer/cmake/obstacle_drawerConfig.cmake

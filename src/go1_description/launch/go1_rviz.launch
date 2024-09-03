@@ -1,18 +1,18 @@
 <launch>
 
     <arg name="user_debug" default="false"/>
-    <arg name="with_lidar" default="true"/>
+    <arg name="with_3D_lidar" default="true"/>
+
 
     <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find go1_description)/xacro/robot.xacro'
             DEBUG:=$(arg user_debug)
-            with_lidar:=$(arg with_lidar)"/>
+            with_3D_lidar:=$(arg with_3D_lidar)"/>
 
     <!-- for higher robot_state_publisher average rate-->
     <!-- <param name="rate" value="1000"/> -->
 
     <!-- send fake joint values -->
-    <node pkg="joint_state_publisher" type="joint_state_publisher" name="joint_state_publisher">
-        <param name="use_gui" value="TRUE"/>
+    <node pkg="joint_state_publisher_gui" type="joint_state_publisher_gui" name="joint_state_publisher_gui">
     </node>
 
 

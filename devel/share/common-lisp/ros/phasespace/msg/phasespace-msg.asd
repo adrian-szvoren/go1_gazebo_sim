@@ -1,0 +1,1 @@
+/home/adrian/git/go1_gazebo_sim/devel/.private/phasespace/share/common-lisp/ros/phasespace/msg/phasespace-msg.asd

@@ -1,0 +1,160 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target unitree_legged_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target unitree_legged_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target unitree_legged_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target unitree_legged_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target unitree_legged_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target control_via_keyboard[0m
+[35m[1mScanning dependencies of target state_sub[0m
+[35m[1mScanning dependencies of target example_position[0m
+[35m[1mScanning dependencies of target example_walk[0m
+[35m[1mScanning dependencies of target ros_udp[0m
+[35m[1mScanning dependencies of target robot_state[0m
+[35m[1mScanning dependencies of target twist_sub[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/example_position.dir/src/exe/example_position.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/control_via_keyboard.dir/src/exe/control_via_keyboard.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/example_walk.dir/src/exe/example_walk.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/state_sub.dir/src/exe/state_sub.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/ros_udp.dir/src/exe/ros_udp.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/twist_sub.dir/src/exe/twist_sub.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/robot_state.dir/src/exe/robot_state.cpp.o[0m
+In file included from [01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/include/unitree_legged_sdk/unitree_legged_sdk.h:12[m[K,
+                 from [01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/src/exe/state_sub.cpp:10[m[K:
+[01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/include/unitree_legged_sdk/lcm.h:9:10:[m[K [01;31m[Kfatal error: [m[Klcm/lcm-cpp.hpp: No such file or directory
+    9 | #include [01;31m[K<lcm/lcm-cpp.hpp>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/state_sub.dir/build.make:63: CMakeFiles/state_sub.dir/src/exe/state_sub.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:619: CMakeFiles/state_sub.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+In file included from [01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/include/unitree_legged_sdk/unitree_legged_sdk.h:12[m[K,
+                 from [01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/src/exe/robot_state.cpp:10[m[K:
+[01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/include/unitree_legged_sdk/lcm.h:9:10:[m[K [01;31m[Kfatal error: [m[Klcm/lcm-cpp.hpp: No such file or directory
+    9 | #include [01;31m[K<lcm/lcm-cpp.hpp>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/robot_state.dir/build.make:63: CMakeFiles/robot_state.dir/src/exe/robot_state.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:1436: CMakeFiles/robot_state.dir/all] Error 2
+In file included from [01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/include/unitree_legged_sdk/unitree_legged_sdk.h:12[m[K,
+                 from [01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/src/exe/example_position.cpp:4[m[K:
+[01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/include/unitree_legged_sdk/lcm.h:9:10:[m[K [01;31m[Kfatal error: [m[Klcm/lcm-cpp.hpp: No such file or directory
+    9 | #include [01;31m[K<lcm/lcm-cpp.hpp>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/example_position.dir/build.make:63: CMakeFiles/example_position.dir/src/exe/example_position.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:1794: CMakeFiles/example_position.dir/all] Error 2
+In file included from [01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/include/unitree_legged_sdk/unitree_legged_sdk.h:12[m[K,
+                 from [01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/src/exe/example_walk.cpp:4[m[K:
+[01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/include/unitree_legged_sdk/lcm.h:9:10:[m[K [01;31m[Kfatal error: [m[Klcm/lcm-cpp.hpp: No such file or directory
+    9 | #include [01;31m[K<lcm/lcm-cpp.hpp>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/example_walk.dir/build.make:63: CMakeFiles/example_walk.dir/src/exe/example_walk.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:1723: CMakeFiles/example_walk.dir/all] Error 2
+In file included from [01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/include/unitree_legged_sdk/unitree_legged_sdk.h:12[m[K,
+                 from [01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/src/exe/ros_udp.cpp:6[m[K:
+[01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/include/unitree_legged_sdk/lcm.h:9:10:[m[K [01;31m[Kfatal error: [m[Klcm/lcm-cpp.hpp: No such file or directory
+    9 | #include [01;31m[K<lcm/lcm-cpp.hpp>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/ros_udp.dir/build.make:63: CMakeFiles/ros_udp.dir/src/exe/ros_udp.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:1919: CMakeFiles/ros_udp.dir/all] Error 2
+In file included from [01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/include/unitree_legged_sdk/unitree_legged_sdk.h:12[m[K,
+                 from [01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/src/exe/twist_sub.cpp:6[m[K:
+[01m[K/home/adrian/git/go1_gazebo_sim/src/unitree_ros_to_real/unitree_legged_real/include/unitree_legged_sdk/lcm.h:9:10:[m[K [01;31m[Kfatal error: [m[Klcm/lcm-cpp.hpp: No such file or directory
+    9 | #include [01;31m[K<lcm/lcm-cpp.hpp>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/twist_sub.dir/build.make:63: CMakeFiles/twist_sub.dir/src/exe/twist_sub.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:1990: CMakeFiles/twist_sub.dir/all] Error 2
+[ 57%] [32m[1mLinking CXX executable /home/adrian/git/go1_gazebo_sim/devel/.private/unitree_legged_real/lib/unitree_legged_real/control_via_keyboard[0m
+/usr/bin/ld: cannot find -llcm
+/usr/bin/ld: cannot find -llcm
+collect2: error: ld returned 1 exit status
+make[2]: *** [CMakeFiles/control_via_keyboard.dir/build.make:105: /home/adrian/git/go1_gazebo_sim/devel/.private/unitree_legged_real/lib/unitree_legged_real/control_via_keyboard] Error 1
+make[1]: *** [CMakeFiles/Makefile2:1068: CMakeFiles/control_via_keyboard.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2
